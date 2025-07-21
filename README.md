@@ -5,9 +5,9 @@
   - 🔧 Kubernetes & advanced CI/CD workflows
   - ☁️ Cloud platforms (AWS, Azure)
 
-- 👨‍💻 👨‍💻 Most of my public side projects are available at [https://github.com/WahabBello?tab=repositories](https://github.com/WahabBello?tab=repositories)
+- 👨‍💻 Most of my public side projects are available at [https://github.com/WahabBello?tab=repositories](https://github.com/WahabBello?tab=repositories)
 
-- 💬 💬 Ask me about **Fullstack Development**  Or anything about building scalable web applications and DevOps!
+- 💬 Ask me about **Fullstack Development**  Or anything about building scalable web applications and DevOps!
 
 - 📫 How to reach me 
 
@@ -19,7 +19,7 @@
 </p>
 
 - 🔗 **[LinkedIn](https://www.linkedin.com/in/abdou-wahab-diallo/)**
-- ✉️ Email : **abdou.w.diallo@gmail.com** 
+- ✉️ **abdou.w.diallo@gmail.com** 
 
 <div align="center">
 <h3> 🔧 Tech Stack </h3>
