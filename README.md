@@ -9,9 +9,7 @@
 
 - 💬 Ask me about **Fullstack Development**  Or anything about building scalable web applications and DevOps!
 
-- 📫 How to reach me 
-
-- ⚡ Fun fact **I am fun guy**
+- ⚡ Fun fact **Tried to write clean code once. Git refused to commit it — said it wasn’t me.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,11 +26,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)
-![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-42b883?logo=vue.js&logoColor=white)
 ![Vuetify](https://img.shields.io/badge/-Vuetify-1867C0?logo=vuetify&logoColor=white)
